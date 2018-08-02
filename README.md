@@ -8,4 +8,3 @@ Hangman game using Node.js
    3. cd Hangman
    4. node main.js
    5. Follow game instruction and prompts.
-   6. ENJOY!
